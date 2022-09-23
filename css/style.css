@@ -1,0 +1,13 @@
+h2 {
+    color: black;
+}
+
+img {
+    width: 100px;
+    height: auto;
+}
+
+img <.photo {
+    width: 500px !important; 
+
+}
