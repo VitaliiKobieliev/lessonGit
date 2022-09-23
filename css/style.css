@@ -1,13 +1,25 @@
-h2 {
-    color: black;
+.title {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 65px;
+
+    /* Black */
+
+    color: #070707;
 }
 
-img {
-    width: 100px;
-    height: auto;
+.photo {
+    width: 970px;
+    height: 387px;
 }
 
-img <.photo {
-    width: 500px !important; 
+.center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
 
+.textholder {
+    width: 200px;
+    height: 40px;
 }
